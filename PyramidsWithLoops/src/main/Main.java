@@ -1,4 +1,4 @@
-/*
+/* Bowen Xu
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
@@ -23,4 +23,5 @@ public class Main {
 			System.out.println("");
 		}
 	}
+	
 }
